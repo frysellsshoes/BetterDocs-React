@@ -1,0 +1,24 @@
+//META{"name":"SignalFNF","description":"1 Column IFYKYK","author":"$id#6969 on discord @WashedSid on twitter","version":"6.9"}*//{}
+@import url(https://8xs4qxklp8.execute-api.us-east-2.amazonaws.com/release/gorawgit?giturl=/puckzxz/NotAnotherAnimeTheme/master/css/scsl.css);
+
+:root {
+    --background-image: url(https://i.imgur.com/FPrsWKYh.jpg); /* format is url(IMAGE URL HERE) */
+    --friends-icon: url(https://cdn.discordapp.com/attachments/572586659095379968/589197175787880478/signal.jpg); /* format is url(IMAGE URL HERE) */
+    --friends-icon-position: center center; /* default: center center */
+    --friends-icon-zoom: 100%; /* default: 100% */
+    --main-color: rgb(67, 181, 129); /* default: rgb(67, 181, 129); */
+    --main-transparency: rgba(0, 0, 0, 0.8); /* default: rgba(0, 0, 0, 0.8); */ 
+
+    --unread-server-animation: rainbow;
+
+    --hover-list-bg-color: rgba(255,255,255, .15); /* default: rgba(255,255,255, .15) */
+    --border-lines-color: hsla(0,0%,100%,.1); /* default: hsla(0,0%,100%,.1);*/
+    --scroll-bar-color: rgba(255,255,255, .15); /* default: rgba(255,255,255, .15);*/
+
+    --font-size: 16px; /* default: 16px */
+    --selected-text-voice-color: #f6f6f7; /* default: #f6f6f7 */
+    --text-hover-color: #b9bbbe; /* default: #b9bbbe */
+    --voice-hover-color: #f6f6f7; /* default: #f6f6f7 */
+    --unread-text-color: #dcddde; /* default: #dcddde */
+    --options-transparency: transparent; /* default: #2f3136 */
+}
